@@ -1,3 +1,4 @@
+![Sorting Visualizer](https://firebasestorage.googleapis.com/v0/b/neelanjan-manna.appspot.com/o/project-images%2FScreenshot%20from%202021-01-28%2012-25-02.png?alt=media&token=c83ab9c3-f3f5-4e5b-87bf-a65821becd55)
 <h1 align="center">Welcome to Sorting Visualizer 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
